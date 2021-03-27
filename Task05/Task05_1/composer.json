@@ -1,0 +1,19 @@
+{
+    "name": "aleksey/task05_1",
+    "description": "task05_1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Aleksey",
+            "email": "aleksey1kudashkin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
